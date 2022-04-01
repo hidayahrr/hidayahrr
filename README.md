@@ -1,6 +1,6 @@
-## Hi there! 👋
+# Hi there! 👋
 
-# 🚀 About Me
+## 🚀 About Me
 😃 My name is Hidayah Rizki Ramadhan, an aspiring Data Scientist and Product Manager with extensive experiences in the business-side of Tokopedia, JD.ID, and Setoko.
 
 🎓 I earned my Bachelor Degree in Business Management studies at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as data and product.
