@@ -14,13 +14,13 @@
 
 ## 🛠️ Skills
 
-◼ Microsoft Excel
+◼ Microsoft VBA                     ◼ Google Suite
 
-◼ Python 3
+◼ Python 3                          ◼ Jupyter Notebook
 
-◼ PostgreSQL
+◼ My SQL                            ◼ Tableau
 
-◼ Microsoft PowerBI
+◼ Microsoft SQL Server              ◼ Microsoft Power BI
 
 ## 🔗 Links
 
