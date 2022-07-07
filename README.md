@@ -14,7 +14,7 @@
 
 ## 🛠️ Skills
 
-◼ Microsoft VBA                     
+◼ Microsoft Office                 
 
 ◼ Google Suite
 
@@ -32,6 +32,6 @@
 
 ## 🔗 Links
 
-![Portfolio](https://img.shields.io/badge/Portfolio-34E27A?style=for-the-badge&logo=Portfolio&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-34E27A?style=for-the-badge&logo=Portfolio&logoColor=white)(https://hidayahrr.wixsite.com/portfolio)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/hidayahrr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=White)](https://hidayahrr.medium.com/)
