@@ -20,7 +20,7 @@
 
 ◼ Microsoft SQL Server                         
 
-◼ My SQL
+◼ MySQL
 
 ◼ Pentaho Data Integration
 
