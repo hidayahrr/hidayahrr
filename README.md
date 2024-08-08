@@ -2,21 +2,17 @@
 
 ## 🚀 About Me
 
-😃 My name is Hidayah Rizki Ramadhan, a Business Intelligence Developer and an aspiring Data Engineer with extensive experiences in tech companies such as Tokopedia, CT Corp Digital, Titipaja, and CIFOR.
+😃 My name is Hidayah Rizki Ramadhan, a Business Intelligence Developer and an aspiring Data Engineer with extensive experience in tech companies such as Tokopedia, CT Corp Digital, Titipaja, and Wagely.
 
-🎓 I earned my Bachelor Degree in Business Management studies at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business intelligence and data engineering.
+🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business intelligence and data engineering.
 
-👨‍💻 Currently, I work full-time as a Business Intelligence Developer at CIFOR. During my free time, I open for various freelancing opportunities to practice my skills and building my portfolio.
+👨‍💻 Currently, I work full-time as a Business Intelligence Developer at CIFOR. I am open to various freelancing opportunities to practice my skills and build my portfolio during my free time.
 
-🎸 Outside the world of working, I love to do some investing in various financial instruments and practicing martial arts. Oh! I also love reading books on personal development & financial literacy.
+🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts. Oh! I also love reading books on personal development & financial literacy.
 
-✈️ Please visit my latest projects at repositories.
+✈️ Please visit my latest projects in repositories.
 
 ## 🛠️ Skills
-
-◼ Microsoft Office                 
-
-◼ Google Suite
 
 ◼ Microsoft SQL Server                         
 
@@ -25,6 +21,8 @@
 ◼ Pentaho Data Integration
 
 ◼ Microsoft SSIS
+
+◼ dbt
 
 ◼ Python 3
 
