@@ -4,7 +4,7 @@
 
 😃 My name is Hidayah Rizki Ramadhan, a Senior Automation Engineer and an aspiring Data Engineer with extensive experience in various companies such as Titipaja, CIFOR, Wagely, and Coda.
 
-🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business intelligence and data engineering.
+🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business analytics, automation, and data engineering.
 
 👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and build my portfolio during my free time.
 
