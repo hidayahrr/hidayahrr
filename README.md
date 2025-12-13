@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-😃 My name is Hidayah Rizki Ramadhan, a Senior Data Analyst and an aspiring Data Engineer with extensive experience in various companies such as Tokopedia, CT Corp Digital, Titipaja, CIFOR-ICRAF, and Wagely.
+😃 My name is Hidayah Rizki Ramadhan, a Senior Data Analyst and an aspiring Data Engineer with extensive experience in various companies such as Titipaja, CIFOR, Wagely, and Coda.
 
 🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business intelligence and data engineering.
 
