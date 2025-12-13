@@ -10,7 +10,7 @@
 
 🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts. Oh! I also love reading books on personal development & financial literacy.
 
-✈️ Please visit my latest project in repositories.
+✈️ Please visit my latest projects in repositories.
 
 ## 🛠️ Skills
 
