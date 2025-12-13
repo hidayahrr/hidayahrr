@@ -6,7 +6,7 @@
 
 🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business analytics, automation, and data engineering.
 
-👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and build my portfolio during my free time.
+👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and to build my portfolio during my free time.
 
 🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts. Oh! I also love reading books on personal development & financial literacy.
 
@@ -14,25 +14,17 @@
 
 ## 🛠️ Skills
 
-◼ Microsoft SQL Server                         
+◼ Microsoft SQL Server, MySQL, PostgreSQL (SQL Engines)            
 
-◼ MySQL
+◼ Pentaho Data Integration, Microsoft SSIS, dbt, Apache Airflow (Data Engineering)
 
-◼ Pentaho Data Integration
+◼ Python, JavaScript (Programming Language)
 
-◼ Microsoft SSIS
+◼ Metabase, Tableau, Microsoft Power BI (Data Visualization)
 
-◼ dbt
+◼ AWS, GCP (Cloud Platforms)
 
-◼ Python 3
-
-◼ Metabase
-
-◼ Tableau
-
-◼ Microsoft Power BI
-
-◼ N8n
+◼ N8n, Make (Automation Tools)
 
 ## 🔗 Links
 
