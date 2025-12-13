@@ -6,7 +6,7 @@
 
 🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business analytics, automation, and data engineering.
 
-👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and to build my portfolio during my free time.
+👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and to build portfolio during my free time.
 
 🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts. Oh! I also love reading books on personal development & financial literacy.
 
