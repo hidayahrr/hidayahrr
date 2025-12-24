@@ -24,7 +24,7 @@
 
 ◼ AWS, GCP (Cloud Platforms)
 
-◼ N8n, Make (Automation Tools)
+◼ N8n, Zapier, Make (Automation Tools)
 
 ## 🔗 Links
 
