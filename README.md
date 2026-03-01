@@ -8,7 +8,7 @@
 
 👨‍💻 Currently, I work full-time as a Senior Data & Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and to build portfolio during my free time.
 
-🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts. Oh! I also love reading books on personal development & financial literacy.
+🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts.
 
 ✈️ Please visit my latest projects in repositories.
 
