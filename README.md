@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-😃 A Senior Automation Engineer and an aspiring Data Engineer with extensive experience in various companies such as Titipaja, CIFOR, Wagely, and Coda.
+😃 A Senior Data & Automation Engineer with extensive experience in various companies such as Titipaja, Wagely, and Coda.
 
 🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as business analytics, automation, and data engineering.
 
