@@ -16,7 +16,7 @@
 
 ◼ Microsoft SQL Server, MySQL, PostgreSQL (SQL Engines)            
 
-◼ Pentaho Data Integration, Microsoft SSIS, dbt, Apache Airflow (Data Engineering)
+◼ Apache Airflow, Apache Spark, dbt, Pentaho Data Integration, Microsoft SSIS (Data Engineering)
 
 ◼ Python, JavaScript (Programming Languages)
 
