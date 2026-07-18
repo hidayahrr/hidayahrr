@@ -14,11 +14,11 @@
 
 ## 🛠️ Skills
 
-◼ Microsoft SQL Server, MySQL, PostgreSQL (SQL Engines)            
+◼ Microsoft SQL Server, MySQL, PostgreSQL, pgvector (Database Engines)            
 
 ◼ Apache Airflow, Apache Spark, dbt, Pentaho Data Integration, Microsoft SSIS (Data Engineering)
 
-◼ Python, JavaScript (Programming Languages)
+◼ Python, JavaScript, TypeScript (Programming Languages)
 
 ◼ Metabase, Tableau, Microsoft Power BI (Data Visualization)
 
