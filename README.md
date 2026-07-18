@@ -18,7 +18,7 @@
 
 ◼ Apache Airflow, Apache Spark, dbt, Pentaho Data Integration, Microsoft SSIS (Data Engineering)
 
-◼ Python, JavaScript, TypeScript (Programming Languages)
+◼ Python, JavaScript (Programming Languages)
 
 ◼ Metabase, Tableau, Microsoft Power BI (Data Visualization)
 
