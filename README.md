@@ -8,9 +8,6 @@
 
 👨‍💻 Currently, I work full-time as a Senior Data & Automation Engineer at Coda. I am open to various freelancing opportunities to practice my skills and to build portfolio during my free time.
 
-🎸 Outside the world of work, I love to invest in various financial instruments and practice martial arts.
-
-✈️ Please visit my latest projects in repositories.
 
 ## 🛠️ Skills
 
@@ -26,8 +23,8 @@
 
 ◼ Zapier, n8n, Make (Automation Tools)
 
-## 🔗 Links
 
+## 🔗 Links
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/hidayahrr)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=White)](https://hidayahrr.medium.com/)
