@@ -11,17 +11,14 @@
 
 ## 🛠️ Skills
 
-◼ Microsoft SQL Server, MySQL, PostgreSQL, pgvector (Database Engines)            
+◼ Data Analytics Stacks: Microsoft SQL Server, MySQL, PostgreSQL, Metabase, Tableau, Microsoft Power BI
+○ Data Engineering Stacks: Apache Spark, Apache Airflow, dbt, Airbyte, Pentaho Data Integration, Microsoft SSIS
+○ AI Engineering Stacks: OpenRouter, Gemini API, Groq, Supabase, pgvector, Langfuse, Sentry, Render
+○ Scripting and Programming Languages: Python, JavaScript, Bash
+○ Cloud Platforms: AWS (S3, Redshift, Step Functions), GCP (Cloud Storage, BigQuery, Looker)
+○ Automation and Workflow Orchestration: Zapier, n8n, Make
+○ Other Technologies: Git, REST API, GraphQL, Zendesk
 
-◼ Apache Airflow, Apache Spark, dbt, Pentaho Data Integration, Microsoft SSIS (Data Engineering)
-
-◼ Python, JavaScript (Programming Languages)
-
-◼ Metabase, Tableau, Microsoft Power BI (Data Visualization)
-
-◼ AWS, GCP (Cloud Platforms)
-
-◼ Zapier, n8n, Make (Automation Tools)
 
 
 ## 🔗 Links
