@@ -4,7 +4,7 @@
 
 😃 A Data & AI Engineer with extensive experience in various companies such as Titipaja, Wagely, and Coda.
 
-🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung. Although my background is in business, I am excited to learn other more technical fields such as data engineering, analytics, and automation.
+🎓 I earned my Bachelor's Degree in Business Management at Institut Teknologi Bandung (ITB). Although my background is in business, I am excited to learn other more technical skills such as data engineering, analytics, and automation.
 
 👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to relocation for new opportunities!
 
