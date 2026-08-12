@@ -13,7 +13,7 @@
 
 ○ Data Analytics Stacks: Microsoft SQL Server, MySQL, PostgreSQL, Metabase, Tableau, Microsoft Power BI
 
-○ Data Engineering Stacks: Apache Spark, Apache Airflow, dbt, Airbyte, Pentaho Data Integration, Microsoft SSIS
+○ Data Engineering Stacks: Databricks, Apache Spark, Apache Airflow, dbt, Airbyte, Microsoft SSIS, Pentaho
 
 ○ AI Engineering Stacks: OpenRouter, Gemini API, Groq, Supabase, pgvector, Langfuse, Sentry, Render
 
