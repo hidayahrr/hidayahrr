@@ -4,7 +4,7 @@
 
 😃 A Data & Automation Engineer with extensive experience in various companies such as Titipaja, Wagely, and Coda.
 
-🎓 I earned my Bachelor's Degree from Institut Teknologi Bandung (ITB). I am excited to learn topics such as data engineering, analytics, and automation.
+🎓 I earned my MSc in Financial Engineering from Worldquant University and BSc from Institut Teknologi Bandung (ITB). I am excited to learn topics such as data engineering, analytics, and automation.
 
 👨‍💻 Currently, I work full-time as a Senior Automation Engineer at Coda. I am open to relocation for new opportunities!
 
