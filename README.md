@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-😃 A Data & Automation Engineer with extensive experience in various companies such as Titipaja, Wagely, and Coda.
+😃 A Data & Automation Engineer with 6+ years of experience in various companies such as Titipaja, Wagely, and Coda.
 
 🎓 I earned my BSc from Institut Teknologi Bandung (ITB). I am excited to learn topics such as data engineering, analytics, and automation.
 
